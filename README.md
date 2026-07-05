@@ -8,4 +8,4 @@ kill criterion and real usage numbers, posted publicly, pass or fail.
 
 **Skills repo:** [claude-skills](https://github.com/AdityaVasireddy/claude-skills) *(first skill landing this week)*
 
-📍 Atlanta · [LinkedIn](https://www.linkedin.com/in/satya-aditya-vasireddy-40905544/)
+📍 Atlanta · [LinkedIn](https://www.linkedin.com/in/satyaadityavasireddy/)
